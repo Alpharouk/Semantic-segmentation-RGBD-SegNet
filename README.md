@@ -1,4 +1,4 @@
-# Semantic-segmentation
+# Semantic segmentation of plant organs
 
 dsfdsfsdfsd
 fsdfsdfsd
