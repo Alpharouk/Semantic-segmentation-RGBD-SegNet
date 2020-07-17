@@ -1,4 +1,4 @@
-# Semantic segmentation of plant organs
+# Semantic segmentation of plant organs using Encoder/Decoder network and RGB-D images
 
 dsfdsfsdfsd
 fsdfsdfsd
