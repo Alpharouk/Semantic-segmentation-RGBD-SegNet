@@ -6,3 +6,4 @@ Samples/Capture d’écran 2020-07-17 à 16.54.00.png
 
 
 ![Alt text](Alpharouk/Semantic-segmentation/Samples/Capture d’écran 2020-07-17 à 16.54.00.png?raw=true "Title")
+![Screenshot](Samples/Capture d’écran 2020-07-17 à 16.54.00.png)
