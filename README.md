@@ -1,9 +1,4 @@
 # Semantic segmentation of plant organs using Encoder/Decoder network and RGB-D images
 
 
-
-Samples/Capture d’écran 2020-07-17 à 16.54.00.png
-
-
-
-![Screenshot](Samples/Capture d’écran 2020-07-17 à 16.54.00.png)
+https://github.com/Alpharouk/Semantic-segmentation/issues/1#issue-660340865
