@@ -17,4 +17,4 @@ This project is about semantic segmentation of 4 classes of plant organs (stem, 
 
 The model was trained on 10000 images of size 224x224 on 4x12Go GPU, the curves of accuracy and loss were good as shown below:
 
-<img width="1023" alt="Capture d’écran 2020-07-20 à 23 01 32" src="https://user-images.githubusercontent.com/62508367/87986152-ffb6b000-cadc-11ea-9552-5ed4d089f65f.png">
+<img width="1023" alt="Capture d’écran 2020-07-20 à 23 05 22" src="https://user-images.githubusercontent.com/62508367/87986532-87042380-cadd-11ea-9d1e-9a0828ace184.png">
