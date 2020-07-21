@@ -22,5 +22,5 @@ The model was trained on 10000 images of size 224x224 on 4x12Go GPU, the curves 
 
 
 
-<img width="595" alt="Capture d’écran 2020-07-21 à 15 53 14" src="https://user-images.githubusercontent.com/62508367/88063437-51f1e280-cb6a-11ea-9f4b-a56c2f67494f.png">
+   <img width="595" alt="Capture d’écran 2020-07-21 à 15 53 14" src="https://user-images.githubusercontent.com/62508367/88063437-51f1e280-cb6a-11ea-9f4b-a56c2f67494f.png">
 
