@@ -25,7 +25,7 @@ The model was trained on 10000 images ( 8000 images for training, 1000 images fo
 
 ## 2.Inference
 
-The model was tested on 1000 RGBD images and with an **accuracy of 97,8%**, here is some results: 
+The model was tested on 1000 RGBD images and with a **test accuracy = 97,8%** , here is some results: 
 
 
   
