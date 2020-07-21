@@ -24,7 +24,9 @@ The model was trained on 10000 images ( 8000 images for training, 1000 images fo
 
 # 2.Inference
 
-The model was tested on 1000 RGBD images, here is some results: // //
+The model was tested on 1000 RGBD images, here is some results: 
+
+
   
 <img width="595" alt="Capture d’écran 2020-07-21 à 15 53 14" src="https://user-images.githubusercontent.com/62508367/88063437-51f1e280-cb6a-11ea-9f4b-a56c2f67494f.png">
 
