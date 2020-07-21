@@ -28,5 +28,6 @@ The model was tested on 1000 RGBD images, here is some results:
 
 
   
-<img width="595" alt="Capture d’écran 2020-07-21 à 15 53 14" src="https://user-images.githubusercontent.com/62508367/88063437-51f1e280-cb6a-11ea-9f4b-a56c2f67494f.png">
+<img width="1026" alt="Capture d’écran 2020-07-21 à 16 59 19" src="https://user-images.githubusercontent.com/62508367/88070952-8ddd7580-cb73-11ea-8274-df32a56828a6.png">
+
 
