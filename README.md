@@ -40,6 +40,13 @@ I used a deep Convolutional Neural Network with Encoder blocs as a features extr
 <img width="1678" alt="Capture d’écran 2020-07-21 à 17 57 34" src="https://user-images.githubusercontent.com/62508367/88078060-45768580-cb7c-11ea-8c70-3f4e29f08044.png">
 
 
-## 3.Conclusion
+## Conclusion
 
 This project was about segmentation of plant organs first in synthetic data and after in real data by doing transfert learning and generalizing the knowledge of the model ( I did only talk about the first part in this repository, the second part is confidential to the company in which I did my internship.)
+
+## Contact
+
+Farouk EL BAHA
+Junior ML & DL Engineer
+e-mail: elbaha-farouk@live.fr
+linkedin: www.linkedin.com/in/farouk-el-baha-74803b188
