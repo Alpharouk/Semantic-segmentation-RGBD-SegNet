@@ -35,6 +35,6 @@ The model was tested on 1000 RGBD images and with a **test accuracy = 97,8%** , 
 
 ## 3.Architecture
 
-I used a deep Convolutional Neural Network with Encoder blocs as a features extractor and Decoder blocs as a mask generator. Here is a screenshot of one Encoder bloc visualised in Tensorboard :
+I used a deep Convolutional Neural Network with Encoder blocs as a features extractor and Decoder blocs as a mask generator (please go to the model.py file for the implementation of the full architecture). Here is a screenshot of one Encoder bloc visualised in Tensorboard :
 
 <img width="1678" alt="Capture d’écran 2020-07-21 à 17 57 34" src="https://user-images.githubusercontent.com/62508367/88078060-45768580-cb7c-11ea-8c70-3f4e29f08044.png">
