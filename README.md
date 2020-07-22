@@ -47,6 +47,7 @@ This project was about segmentation of plant organs first in synthetic data and 
 ## Contact
 
 Farouk EL BAHA
-Junior ML & DL Engineer
-e-mail: elbaha-farouk@live.fr
-linkedin: www.linkedin.com/in/farouk-el-baha-74803b188
+> Junior ML & DL Engineer
+>
+> e-mail: elbaha-farouk@live.fr
+> linkedin: www.linkedin.com/in/farouk-el-baha-74803b188
