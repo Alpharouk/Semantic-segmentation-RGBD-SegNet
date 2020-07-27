@@ -2,7 +2,13 @@
 # coding: utf-8
 
 # In[ ]:
-
+#defining dice loss funtion
+def dice_loss(y_pred,y_true):
+        epsilon=1e-6
+        axes = tuple(range(1, len(y_pred.shape)-1)) 
+        numerator = 2. * K.sum(y_pred * y_true, axes)
+        denominator = K.sum(K.square(y_pred) + K.square(y_true), axes)
+        return 1 - K.mean((numerator + epsilon) / (denominator + epsilon))
 
 # defining the parameters of the model
 model = segnet(shape, n_labels ,kernel, pool_size, output_mode)
