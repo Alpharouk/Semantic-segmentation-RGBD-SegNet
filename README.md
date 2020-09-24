@@ -1,4 +1,4 @@
-# Semantic segmentation of plant organs using Encoder/Decoder network and RGB-D images
+# Semantic segmentation of plant organs using SegNet network and RGB-D images
 
 
 
@@ -55,6 +55,6 @@ This project was about segmentation of plant organs first in synthetic data and 
 >
 > Junior ML & DL Engineer
 >
-> e-mail: elbaha-farouk@live.fr
+> e-mail: alfarouk.elbaha@gmail.com
 >
 > linkedin: www.linkedin.com/in/farouk-el-baha-74803b188
