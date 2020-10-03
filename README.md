@@ -49,6 +49,10 @@ I used a deep Convolutional Neural Network with Encoder blocs as a features extr
 
 This project was about segmentation of plant organs first in synthetic data and after in real data by doing transfert learning and generalizing the knowledge of the model ( I did only talk about the first part in this repository, the second part is confidential to the company in which I did my internship.)
 
+## Références
+
+- SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation by Vijay Badrinarayanan, Alex Kendall, Roberto Cipolla, Senior Member, IEEE
+
 ## Contact
 
 >Farouk EL BAHA
