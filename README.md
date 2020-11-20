@@ -53,7 +53,7 @@ Here is a screenshot of one bloc of SegNet visualised in Tensorboard :
 
 ## Conclusion
 
-This project is about semantic segmentation of plant organs into (4 classesusing synthetic RGB-D images. The 
+This project is about semantic segmentation of plant organs into 4 classes + Background using synthetic RGB-D images.
 
 ## References
 
