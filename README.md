@@ -46,14 +46,14 @@ The model was tested on 1000 RGBD images and with a **test accuracy = 97,8%** , 
 
 ## 3.Architecture
 
-I used a deep Convolutional Neural Network with Encoder blocs as a features extractor and Decoder blocs as a mask generator (please go to the model.py file for the implementation of the full architecture). Here is a screenshot of one Encoder bloc visualised in Tensorboard :
+Here is a screenshot of one bloc of SegNet visualised in Tensorboard :
 
 <img width="1678" alt="Capture d’écran 2020-07-21 à 17 57 34" src="https://user-images.githubusercontent.com/62508367/88078060-45768580-cb7c-11ea-8c70-3f4e29f08044.png">
 
 
 ## Conclusion
 
-This project was about segmentation of plant organs first in synthetic data and after in real data by doing transfert learning and generalizing the knowledge of the model ( I did only talk about the first part in this repository, the second part is confidential to the company in which I did my internship.)
+This project is about semantic segmentation of plant organs into (4 classesusing synthetic RGB-D images. The 
 
 ## References
 
